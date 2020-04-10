@@ -9983,6 +9983,15 @@ hr.light {
   padding: 8rem 0;
 }
 
+.sm-page-section {
+  padding: 2rem 0;
+}
+
+.inline-link {
+  color: #343a40;
+  background-color: white;
+}
+
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   background-color: #fff;
